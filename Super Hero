@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUPER</title>
+</head>
+<body>
+    <p><strong><center> THE FIRST ALWAYES WOULD BE IRON MAN</center></strong></p>
+  <hr color="blue">
+  <ul>     
+  <li> Iron man</li>  
+     <li><a href="https://en.wikipedia.org/wiki/Spider-Man"> spaider man</a></li>
+        </ul>
+        <ol>
+        <li> ant man</li>
+        </ol>
+        <ol type="I">
+        <li>the one with the green ring</li>
+        <li>black widow</li>
+        </ol>  
+</body>
+</html>
